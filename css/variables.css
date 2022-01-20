@@ -1,12 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Thu, 20 Jan 2022 16:15:44 GMT
+ * Generated on Thu, 20 Jan 2022 16:49:22 GMT
  */
 
 :root {
-  --colors-red-300: #Ff0ff0;
-  --colors-red-500: #EF4444;
-  --colors-red-700: #B91C1C;
+  --colors-primary-50: #BA0517;
+  --colors-primary-60: #8E030F;
   --colors-black: #000000;
   --colors-white: #ffffff;
   --spacing-sm: 4;

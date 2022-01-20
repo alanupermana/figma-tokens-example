@@ -1,1 +1,40 @@
-{}
+{
+  "colors": {
+    "primary": {
+      "50": {
+        "value": "#BA0517",
+        "type": "color"
+      },
+      "60": {
+        "value": "#8E030F",
+        "type": "color"
+      }
+    },
+    "black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    }
+  },
+  "spacing": {
+    "sm": {
+      "value": 4,
+      "type": "spacing"
+    },
+    "md": {
+      "value": 8,
+      "type": "spacing"
+    },
+    "lg": {
+      "value": 16,
+      "type": "spacing"
+    },
+    "xl": {
+      "value": 32,
+      "type": "spacing"
+    }
+  }
+}
